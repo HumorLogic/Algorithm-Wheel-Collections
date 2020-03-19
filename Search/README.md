@@ -2,4 +2,4 @@
 
 
 - C#（in Unity）
-![searchAlgorithm](img/serach01.gif)
+<img src="img/search01.gif" width="500"/>
