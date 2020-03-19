@@ -1,2 +1,2 @@
-# Algorithm-Wheel-Collections
+# Algorithm Wheel Collections
 Algorithm Collections
